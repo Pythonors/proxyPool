@@ -1,0 +1,2 @@
+# proxyPool
+a ip proxy
